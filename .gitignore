@@ -1,17 +1,9 @@
-# Project exclude paths
 /target/
-### Java template
-# Compiled class file
 *.class
 
-# Log file
 *.log
 
-# BlueJ files
-*.ctxt
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
 # Package Files #
 *.jar
@@ -22,19 +14,6 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-.idea/$PRODUCT_WORKSPACE_FILE$
-.idea/.gitignore
-.idea/GroovySimpleProject.iml
-.idea/codeStyles/
-.idea/compiler.xml
-.idea/jarRepositories.xml
-.idea/misc.xml
-.idea/sonarIssues.xml
-.idea/sonarlint/
-.idea/uiDesigner.xml
 GroovySimpleProject.iml
-pom.xml
-src/
+
+/.idea/
